@@ -1,2 +1,0 @@
-# VueJsGame
-Created with CodeSandbox
